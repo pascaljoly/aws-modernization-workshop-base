@@ -1,5 +1,5 @@
 ---
-title: "AWS Modernization Workshop"
+title: "Cloud Automation at Scale with CloudShell Colony"
 chapter: true
 weight: 1
 ---
@@ -8,12 +8,20 @@ weight: 1
 
 ### Welcome
 
-In this workshop you will learn why DevOps is a pattern for modernization and how to use patterns to release features and functionality at a faster pace.
+Why Cloud Automation at Scale?
+- Everyone in the organization (developers, QA, ITOps, DevOps) needs applications environments in the cloud
+- The Problem is that expertise is a bottleneck. Cloud experts are in high demand. Not all developers are Cloud Experts.
+- This creates islands of automation with inconsistencies across the organization
+- It also results in insufficient guardrails around security/compliance and cost
+
 
 ### Learning Objectives
-- Deploy Cloud9 as an IDE for completing workshop exercises.
-- How DevOps patterns help to release features and functionality faster.
-- Best practices for implementing 2 pizza team pipelines.
+Gourmet Inc provides gourmet food delivery services. They wants to deploy their new promotion manager web application to AWS in time for the holiday season. 
+This is a new user experience for their Foody shoppers, and this upgrade should significantly impact sales for the quarter. Quality is paramount.
+The engineering, DevOps and IT teams are under pressure to deliver this in a short amount of time and handle any subsequent upgrade with minimal delays.
+Gourmet Inc also wants this approach to be applicable to other applications within the company, as well as be compliant to PCI for credit card payment.
+You are the trusted DevOps expert in the Company and in charge of the project success. This is a great opportunity for you so you are highly motivated!
+
 
 {{% notice warning %}}
 <p style='text-align: left;'>
